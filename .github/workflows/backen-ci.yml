@@ -1,5 +1,4 @@
 name: CI-CD API
-
 on:
   push:
     branches: [ "develop" ]
